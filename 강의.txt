@@ -1,0 +1,14 @@
+jQuery
+  window.document 객체 - HTML 문서와 관련 기능
+                       - HTML을 변경, 수정, 추가, 삭제
+                       - 속성을 변경...
+
+
+                       - 요소를 선택 -> HTML을 변경, 수정, 추가, 삭제...
+                       - 아이디 - getElementById
+                       - 클래스 - getElementsByClassName
+                       - 태그명 - getElementsByTagName
+                       - Name 속성 - getElementsByName
+                       - CSS 속성 - querySelector, querySelectorAll
+
+  - 주로 선택자와 관련된 편의 기능 -> 선택자가 가장 중요
